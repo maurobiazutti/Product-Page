@@ -1,3 +1,3 @@
 # Raedme
 
-![Exemplo de Vídeo](./gif_readme/giphy.mp4)
+![Exemplo de Vídeo](https://giphy.com/embed/K86nHy52lzwvzU6sCq)
